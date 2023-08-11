@@ -1,2 +1,2 @@
 # Operating-System
-Course project for CSCI402 at University of Southern California
+Project of CSCI402-Operating System at University of Southern California
